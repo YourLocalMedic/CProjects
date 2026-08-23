@@ -54,7 +54,7 @@ int main(){
 
   append_Node(&head2, &second_node);
 
-  printf("%d", head.next->data);
+  printf("%d", head2.next->data);
 
   return 0;
 }
